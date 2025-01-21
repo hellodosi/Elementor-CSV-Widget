@@ -1,9 +1,10 @@
 <?php
 /*
 Plugin Name: Elementor CSV Table Widget
-Description: Ein Elementor-Widget, das eine CSV-Datei aus der Medienbibliothek auswählt und als Tabelle darstellt.
+Description: A widget for Elementor that selects a CSV file from the media library and displays it as a table.
 Version: 1.0
 Author: Dominik Scharrer
+Author URI: https://github.com/hellodosi/
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
